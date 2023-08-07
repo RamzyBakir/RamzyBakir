@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @RamzyBakir
+- Currently studying computer and information sciences at EUI. I’m 19 years old, I am passionate about data analysis, ML, Big Data, and I am eager in pursuing a career in data science.
