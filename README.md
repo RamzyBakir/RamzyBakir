@@ -1,4 +1,4 @@
-Hi 👋 My name is Ramzy Bakir
+Hi 👋 my name is Ramzy Bakir
 ============================
 
 Data Enthusiast
