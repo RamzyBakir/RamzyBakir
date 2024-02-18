@@ -9,6 +9,7 @@ Currently pursuing a Bachelor's degree in Computing and Information Sciences at 
 * 🌍  I'm based in Cairo, Egypt
 * 🖥️  See my portfolio at [kaggle](http://www.kaggle.com/ramzybakir)
 * ✉️  You can contact me at [ramzybakir.rsb@gmail.com](mailto:ramzybakir.rsb@gmail.com)
+* 📃  <a class="style-10"><a href="Ramzy Bakir Resume.pdf" class="style-11">Download my Resumé</a></a>
 
 ### 💻 Skills
 
