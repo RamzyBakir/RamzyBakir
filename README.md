@@ -19,7 +19,7 @@ Currently pursuing a Bachelor's degree in Computing and Information Sciences at 
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramzy-bakir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramzy-bakir)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](http://www.kaggle.com/ramzybakir)
 
 <b>Top Repositories</b>
