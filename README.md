@@ -1,8 +1,4 @@
-Hi 👋 my name is Ramzy Bakir
-============================
-
-Data Enthusiast
----------------
+<h1>Hi, I'm Ramzy! <br/><a href="https://linkedin.com/in/ramzy-bakir">Aspiring Data Scientist</a></h1>
 
 Currently pursuing a Bachelor's degree in Computing and Information Sciences at EUI. Driven by a passion for data science, I'm actively seeking opportunities in this dynamic field. With significant work experience contributing to diverse projects and a commitment to continuous learning, I've undertaken various courses and earned certificates to enhance my skills. Fluent in English, French, and Arabic, with a good understanding of German, and equipped with a solid foundation in programming languages and data science tools, I am enthusiastic about bringing my expertise and energy to the field of data science. Let's connect and explore potential opportunities together!
 
