@@ -23,8 +23,8 @@ Currently pursuing a Bachelor's degree in Computing and Information Sciences at 
 
 <div width="100%" align="center">
   <a href="https://github.com/RamzyBakir/Unraveling-Egypt-s-Net-Migration-Patterns-A-Time-Series-Economical-and-Sociopolitical-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RamzyBakir&repo=Unraveling-Egypt-s-Net-Migration-Patterns-A-Time-Series-Economical-and-Sociopolitical-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    <a href="https://github.com/RamzyBakir/Career-Navigator-Chatbot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RamzyBakir&repo=Career-Navigator-Chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/RamzyBakir/Career-Navigator-Chatbot" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=RamzyBakir&repo=Career-Navigator-Chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   <a href="https://github.com/RamzyBakir/BookPal-AI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RamzyBakir&repo=BookPal-AI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  <a href="https://github.com/RamzyBakir/Ames-housing-Xgboost" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RamzyBakir&repo=Ames-housing-Xgboost&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/RamzyBakir/Ames-housing-Xgboost" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=RamzyBakir&repo=Ames-housing-Xgboost&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   
 </div><br /><br /><br /><br /><br /><br /><br />
