@@ -4,21 +4,16 @@ A Computer and Information Sciences student at EUI with a passion for data scien
 
 * 🌍  I'm based in Cairo, Egypt
 * 🧠  Computing and Information Sciences student at EUI
+* 🌐  I can speak Arabic (native proficiency), English & French (fluent proficiency), German (conversational proficiency)
 * 🖥️  See my portfolio at [ramzybakir.github.io](https://ramzybakir.github.io/) or at [kaggle](http://www.kaggle.com/ramzybakir)
 * ✉️  You can contact me at [ramzybakir.rsb@gmail.com](mailto:ramzybakir.rsb@gmail.com)
 * 📃  <a class="style-10"><a href="Ramzy Bakir Resume.pdf" class="style-11">Download my Resumé</a></a>
 
 Career Highlights:
+- Co-authored a research paper during my sophomore year analyzing Egypt’s net migration patterns from 1965 to 2022.
 - Recognized as one of the top 3 interns for outstanding performance during the Centro Data Program internship.
 - Achieved top 3 ranking in the IEEE EUI Computer Society SBC Data Science Boot Camp's Machine Learning competition hosted on Kaggle.
 - Consistently delivered top-performing university projects, with my team and I being recognized among the best in each endeavor.
-
-Skills:
-- Programming Languages: Python, R, C, C++, SQL, Scala
-- Data Science & Machine Learning: Python Libraries (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, XGBoost, TensorFlow, Keras, Langchain, Streamlit, Scipy, Beautiful Soup, Hugging Face), R (Tidyverse, ggplot2), Power BI, Tableau, Incorta
-- Languages: Arabic (native proficiency), English & French (fluent proficiency), German (conversational proficiency)
-
-I am enthusiastic about bringing my expertise and energy to the field of data science. Let's connect and explore potential opportunities together!
 
 ### 💻 Skills
 
