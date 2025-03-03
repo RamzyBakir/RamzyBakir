@@ -9,12 +9,6 @@ A Computer and Information Sciences student at EUI with a passion for data scien
 * ✉️  You can contact me at [ramzybakir.rsb@gmail.com](mailto:ramzybakir.rsb@gmail.com)
 * 📃  <a class="style-10"><a href="Ramzy Bakir Resume.pdf" class="style-11">Download my Resumé</a></a>
 
-Career Highlights:
-- Co-authored a research paper during my sophomore year analyzing Egypt’s net migration patterns from 1965 to 2022.
-- Recognized as one of the top 3 interns for outstanding performance during the Centro Data Program internship.
-- Achieved top 3 ranking in the IEEE EUI Computer Society SBC Data Science Boot Camp's Machine Learning competition hosted on Kaggle.
-- Consistently delivered top-performing university projects, with my team and I being recognized among the best in each endeavor.
-
 ### 💻 Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
