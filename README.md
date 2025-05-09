@@ -36,6 +36,12 @@ I'm a Computing and Information Sciences student at Egypt University of Informat
 
 ## Key Projects
 
+### [roberta-aegyptustranslit-classifier](https://github.com/RamzyBakir/roberta-aegyptustranslit-classifier)
+- Fine-tuned a RoBERTa-base for 5-era historical classification (Old Kingdom to Greco-Roman). 
+- Optimized for limited data: the model is trained on a 10,000 balanced samples dataset, with AdamW (lr=2e-5, bs=64), for 20 epochs. 
+- Model Achieved a macro/weighted F1 score of ~0.60 with a highest class F1 score of ~ 0.7, lowest of ~0.4. 
+- View and use the model on HuggingFace via: https://huggingface.co/RamzyBakir/roberta-aegyptustranslit-classifier.
+ 
 ### [SYRA AGENT](https://github.com/RamzyBakir/syra-agent)
 - AI-driven resume screening pipeline leveraging Gemini 1.5's long-context processing (up to 2M tokens)
 - Developed complete workflow from CV collection/parsing to database storage and AI-driven ranking
