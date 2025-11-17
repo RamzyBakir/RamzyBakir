@@ -1,5 +1,7 @@
 # Hi, I'm Ramzy 👋
 
+[![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
+
 ## Aspiring AI/ML Engineer
 
 I'm a Computing and Information Sciences student at Egypt University of Informatics (EUI), expected to graduate in 2026. Passionate about artificial intelligence, machine learning and data science. With significant work experience from internships and diverse projects demonstrating my ability to apply theoretical knowledge to practical, impactful projects.
