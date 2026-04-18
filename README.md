@@ -9,9 +9,10 @@ I teach machines to learn, cameras to capture moments, and I'm still waiting for
   
 ---
 ### What I work with
-**Languages:** Python · C/C++ · SQL · R · Scala
-**ML & AI:** PyTorch · TensorFlow · HuggingFace · Scikit-learn · LangChain · XGBoost
-**Data:** Pandas · NumPy · Power BI · Tableau
+- **Languages:** Python · C/C++ · SQL · R · Scala
+- Algorithms: Time Series Analysis, Regression Analysis, Gradient Boosting, KNN, Decision Trees, CNNs, Neural Networks
+- LLMs & GenAI: Agents design, agentic architecture, workflows, deployement
+- Frameworks & Tools: Scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, Hugging Face, LangChain, Streamlit, TensorFlow, PyTorch
 
 ---
 
